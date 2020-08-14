@@ -4,18 +4,14 @@ def game_hash
   {
     :home => {
       :team_name => "",
-      :colors => [
-        
-      ],
+      :colors => ["",""],
       :players => [
         
       ]
     },
     :away => {
       :team_name => "Charlotte Hornets",
-      :colors => [
-        
-      ],
+      :colors => ["Turquoise", "Purple"],
       :players => [
         
       ]
